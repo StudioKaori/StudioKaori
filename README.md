@@ -2,7 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/asad-tirmizi/sda-group-project-gp3">
+  <img src="https://raw.githubusercontent.com/StudioKaori/StudioKaori/main/hero.JPG" alt="Studio Kaori" />
+  <a href="https://github.com/StudioKaori/free-thinker">
     <img src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/components/navbar/logo-icon.png" alt="Logo" width="80" height="80">
   </a>
 
