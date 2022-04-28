@@ -14,6 +14,6 @@
 
   </p>
        <h3 align="center"><a href="https://free-thinker-d732f.web.app/" target="_blank">View Demo</a></h3>
-       ![Student Page](https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png)
+    <img src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" />
 
 </p>
