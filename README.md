@@ -1,24 +1,14 @@
-<p align="center">
-  <img src="./assets/img/hero.jpg" alt="Studio Kaori" />
-  <a href="https://github.com/StudioKaori/free-thinker">
-    <img src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/components/navbar/logo-icon.png" alt="Logo" width="80" height="80">
-  </a>
+<img src="./assets/img/hero.jpg" alt="Studio Kaori" />
 
-  <h2 align="center">Featured Project: Free Thinkers</h2>
+<a href="https://free-thinker-d732f.web.app/" target="_blank"><img align="left" width="600px" height="auto" src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" /></a>
 
-  <p align="center">
-    React + JAVA (Spring) Group project<br />
-  Primary school at Home
+<h2>Featured Project: Free Thinkers</h2>
+React + JAVA (Spring) Group project<br />
+Primary school at Home
+<h3><a href="https://free-thinker-d732f.web.app/" target="_blank">View Demo</a></h3>  <h3><a href="https://github.com/StudioKaori/free-thinker"><a href="https://github.com/StudioKaori/free-thinker">View repo</a></h3>
 
-  </p>
-       <h3 align="center"><a href="https://free-thinker-d732f.web.app/" target="_blank">View Demo</a></h3>  <h3 align="center"><a href="https://github.com/StudioKaori/free-thinker"><a href="https://github.com/StudioKaori/free-thinker">View repo</a></h3>
-    <a href="https://free-thinker-d732f.web.app/" target="_blank"><img src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" /></a>
-
-## Projects
-
-#### Kaori has changed github name, so 'studio kaori' may not be visible in contributor panel. Please click the numbers of commit to check my commits.
-
-  <img src="./assets/img/commit.png" />
+<p align="left">
+<h2>Projects</h2>
 
   <b>
   [React group project]Teck Talk: https://tech-talk-6942d.web.app/  [<a href="https://github.com/StudioKaori/Tech-talk" target="_blank">Repo</a>]<br />
