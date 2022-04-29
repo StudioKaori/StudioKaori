@@ -7,6 +7,7 @@ React + JAVA (Spring) Group project<br />
 Primary school at Home
 <h3><a href="https://free-thinker-d732f.web.app/" target="_blank">View Demo</a></h3>  <h3><a href="https://github.com/StudioKaori/free-thinker"><a href="https://github.com/StudioKaori/free-thinker">View repo</a></h3>
 
+<br clear="both"/>
 <p align="left">
 <h2>Projects</h2>
 
