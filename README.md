@@ -1,6 +1,6 @@
 <img src="./assets/img/hero.jpg" alt="Studio Kaori" />
 
-<a href="https://free-thinker-d732f.web.app/" target="_blank"><img align="left" width="600px" height="auto" src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" /></a>
+<a href="https://free-thinker-d732f.web.app/" target="_blank"><img align="left" width="50%" height="auto" src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" /></a>
 
 <h2>Featured Project: Free Thinkers</h2>
 React + JAVA (Spring) Group project<br />
