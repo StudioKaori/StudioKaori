@@ -1,10 +1,19 @@
-<img src="./assets/img/hero.jpg" alt="Studio Kaori" />
+<img align="right" width="50%" height="auto" src="./assets/img/hero2.jpg" alt="Studio Kaori" />
+
+<h2>Hi! I'm Kaori!</h2>
+iOS Swift developer
+
+<br style="clear:both;" />
+<br />
 
 <a href="https://free-thinker-d732f.web.app/" target="_blank"><img align="left" width="50%" height="auto" src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" /></a>
 
 <h2>Featured Project: Free Thinkers</h2>
 React + JAVA (Spring) Group project<br />
 Primary school at Home
+
+
+
 <h3><a href="https://free-thinker-d732f.web.app/" target="_blank">View Demo</a></h3>  <h3><a href="https://github.com/StudioKaori/free-thinker"><a href="https://github.com/StudioKaori/free-thinker">View repo</a></h3>
 
 <br clear="both"/>
