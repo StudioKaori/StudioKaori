@@ -13,7 +13,7 @@ A real online store back-ended by <a href="https://shopify.dev/" target="_blank"
 </dl>
 
 
-<a href="https://github.com/StudioKaori/free-thinker">View repo</a>
+<a href="https://github.com/StudioKaori/iOSShopify">View repo</a>
 
 <br clear="both" />
 <hr clear="both" />
