@@ -1,9 +1,23 @@
 <img src="./assets/img/hero.jpg" alt="Studio Kaori" />
 <br clear="both"/>
+<br />
+<br />
 
-<a href="https://github.com/StudioKaori/iOSShopify" target="_blank"><img align="left" width="50%" height="auto" src="./assets/img/kaoriShopifyHero.gif" alt="iOS Shopify Store" /></a>
+<h2>SwiftUI + core ML(Machine learning): Object Recognition</h2>
+<a href="https://github.com/StudioKaori/iOSNewObjectRecognition" target="_blank"><img align="left" width="400px" height="auto" src="https://github.com/StudioKaori/iOSNewObjectRecognition/raw/main/readmeAssets/hero.gif" alt="Free Thinker" /></a>
+Object recognition app by MobileNetV2 (image classification), Apple's <a href="https://developer.apple.com/machine-learning/models/">core ML model</a>.
+The app is entirely build with SwiftUI.
+<h3>Feature:</h3>
+<dl>
+<li>Object recognition by MobileNetV2</li>
+<li>SwiftUI</li>
+</dl>
+<br clear="both" />
+<hr clear="both" />
 
 <h2>iOS(Swift) app: Kaori Shopify Store</h2>
+<a href="https://github.com/StudioKaori/iOSShopify" target="_blank"><img align="left" width="400px" height="auto" src="./assets/img/kaoriShopifyHero.gif" alt="iOS Shopify Store" /></a>
+
 A real online store back-ended by <a href="https://shopify.dev/" target="_blank">Shopify</a> using <a href="https://shopify.dev/custom-storefronts/tools/ios" target="_blank">Shopify buy iOS SDK</a> and graphQL.
 
 <h3>Feature:</h3>
@@ -18,7 +32,7 @@ A real online store back-ended by <a href="https://shopify.dev/" target="_blank"
 <br clear="both" />
 <hr clear="both" />
 
-<a href="https://free-thinker-d732f.web.app/" target="_blank"><img align="left" width="50%" height="auto" src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" /></a>
+<a href="https://free-thinker-d732f.web.app/" target="_blank"><img align="left" width="400px" height="auto" src="https://raw.githubusercontent.com/StudioKaori/free-thinker/master/frontend/src/assets/img/carousel/student-carousel-1.png" alt="Free Thinker" /></a>
 
 <h2>Spring(Java) + React: Free Thinkers</h2>
 A group project using Spring as a back-end, React as a front-end<br />
