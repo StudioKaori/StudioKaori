@@ -20,14 +20,30 @@ The app is entirely build with SwiftUI.
 <h2>iOS(Swift) app: Kaori Shopify Store</h2>
 <a href="https://github.com/StudioKaori/iOSShopify" target="_blank"><img align="left" width="400px" height="auto" src="./assets/img/kaoriShopifyHero.gif" alt="iOS Shopify Store" /></a>
 <a href="https://github.com/StudioKaori/iOSShopify" target="_blank">View repository</a><br /><br />
-A real online store back-ended by <a href="https://shopify.dev/" target="_blank">Shopify</a> using <a href="https://shopify.dev/custom-storefronts/tools/ios" target="_blank">Shopify buy iOS SDK</a> and graphQL.
+A real e-commerce store back-ended by <a href="https://shopify.dev/" target="_blank">Shopify</a> using <a href="https://shopify.dev/custom-storefronts/tools/ios" target="_blank">Shopify buy iOS SDK</a> and graphQL.
 
 <h3>Feature:</h3>
 <dl>
 <li>Live online store: Fetching product information by using GraphQL</li>
 <li>Virtual Fitting Room: Trying on dresses by uploading/taking a photo</li>
+<li>Shopify iOS Buy SDK via CocoaPods</li>
 </dl>
 
+
+<br clear="both" />
+<hr clear="both" />
+
+<h2>React Native + Firebase app: Memo App</h2>
+<a href="https://github.com/StudioKaori/MemoApp" target="_blank">View repository</a><br /><br />
+Simple memo app with Firestore and Firebase authentication.
+<h3>Feature:</h3>
+<dl>
+<li>Store the memo data in the cloud (Firestore)</li>
+<li>Smooth data sync within iOS and Android by Google auth</li>
+<li>Log In function with Firebase auth</li>
+<li>Google Log In</li>
+<li>Anonymous Log in</li>
+</dl>
 
 <br clear="both" />
 <hr clear="both" />
