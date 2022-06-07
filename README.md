@@ -33,6 +33,20 @@ A real e-commerce store back-ended by <a href="https://shopify.dev/" target="_bl
 <br clear="both" />
 <hr clear="both" />
 
+<h2>Swift + Firebase: Real time chat app Messenger (On-going project)</h2>
+<a href="https://github.com/StudioKaori/iOSMessenger" target="_blank">View repository</a><br /><br />
+Facebook messenger like Real time chat app with Firebase
+<h3>Feature:</h3>
+<dl>
+<li>Real time data base in Firebase</li>
+<li>Firebase auth</li>
+<li>Email login</li>
+<li>Facebook login</li>
+</dl>
+
+<br clear="both" />
+<hr clear="both" />
+
 <h2>React Native + Firebase app: Memo App</h2>
 <a href="https://github.com/StudioKaori/MemoApp" target="_blank">View repository</a><br /><br />
 Simple memo app with Firestore and Firebase authentication.
@@ -43,6 +57,20 @@ Simple memo app with Firestore and Firebase authentication.
 <li>Log In function with Firebase auth</li>
 <li>Google Log In</li>
 <li>Anonymous Log in</li>
+</dl>
+
+<br clear="both" />
+<hr clear="both" />
+
+
+<h1>SwiftUI: Pinch and Zoom</h1>
+
+<img align="left" width="400px" height="auto" src="https://github.com/StudioKaori/iOSSwiftUIPinch/blob/main/readmeAssets/PinchHero.gif?raw=true" alt="Pinch and Zoom" />
+Pinch and Zoom by SwiftUI
+<h3>Feature:</h3>
+<dl>
+<li>Pinch and Zoom</li>
+<li>SwiftUI</li>
 </dl>
 
 <br clear="both" />
