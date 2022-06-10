@@ -35,6 +35,20 @@ A real e-commerce store back-ended by <a href="https://shopify.dev/" target="_bl
 <br clear="both" />
 <hr clear="both" />
 
+<h2>SwiftUI + Combine + GraphQL : E-comm store Shopify (On-going project)</h2>
+<a href="https://github.com/StudioKaori/iOSSwiftUIShopifyStore" target="_blank">View repository</a><br /><br />
+A real e-commerce store back-ended by <a href="https://shopify.dev/" target="_blank">Shopify</a>.
+
+<h3>Feature:</h3>
+<dl>
+<li>SwiftUI</li>
+<li>Fetch product via GraphQL</li>
+<li>Combine</li>
+</dl>
+
+<br clear="both" />
+<hr clear="both" />
+
 <h2>Swift + Firebase: Real time chat app Messenger (On-going project)</h2>
 <a href="https://github.com/StudioKaori/iOSMessenger" target="_blank">View repository</a><br /><br />
 Facebook messenger like Real time chat app with Firebase
