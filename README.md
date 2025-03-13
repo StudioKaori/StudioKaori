@@ -1,7 +1,8 @@
-<img src="./assets/img/hero.jpg" alt="Studio Kaori" />
+<img src="https://github.com/user-attachments/assets/67d36aeb-845d-4513-9012-c6573589bbf4" alt="Studio Kaori" height=250 align="right" />
 <br clear="both"/>
 <br />
 <br />
+
 
 <h2>SwiftUI + core ML(Machine learning): Object Recognition</h2>
 <a href="https://github.com/StudioKaori/iOSNewObjectRecognition" target="_blank"><img align="left" width="400px" height="auto" src="https://github.com/StudioKaori/iOSNewObjectRecognition/raw/main/readmeAssets/hero.gif" alt="SwiftUI + core ML(Machine learning): Object Recognition" /></a>
